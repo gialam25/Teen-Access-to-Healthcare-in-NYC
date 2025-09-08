@@ -6,7 +6,7 @@ This data analysis project investigates how socioeconomic barriers—specificall
 
 Data Preparation & Cleaning: Excel
 Data Analysis & Visualization: Python (Pandas, NumPy, Matplotlib, Seaborn)
-Exploratory Analysis: Google Colab
+Exploratory Analysis: Jupyter Notebook
 Reporting: PDF for final summary and stakeholder presentation
 
 🔎 Key Insights
