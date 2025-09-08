@@ -20,7 +20,7 @@ Clinic presence alone is insufficient without addressing underlying economic bar
 📄 Full Report
 
 For a detailed presentation of our findings, including all data visualizations (correlation heatmaps, bar charts, bubble charts) and actionable public health recommendations, please see the full report:
-👉 Teen Access to Healthcare in NYC (PDF)
+Teen Access to Healthcare in NYC (PDF)
 
 
 Data Sources:
